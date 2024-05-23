@@ -1,0 +1,5 @@
+export {default as Login} from './Login'
+export {default as Dashboard} from './Dashboard'
+export {default as AddAdmin} from './AddAdmin'
+export {default as AddDepartment} from './AddDepartment'
+export {default as Department} from './Department'
